@@ -1,32 +1,25 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+## 📌 Project Overview
+A professional, responsive portfolio website built to showcase my expertise in **Data Analytics**. This site serves as a central hub for my technical projects, featuring direct links to my SQL scripts, Python notebooks, and data visualization dashboards.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+## 🚀 Live Demo
+You can view the live site here: [https://elijahobua.github.io/portfolio-site/](https://elijahobua.github.io/portfolio-site/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠️ Built With
+* **HTML5 & CSS3:** For structured content and custom professional styling.
+* **JavaScript:** To handle site interactivity and smooth navigation.
+* **GitHub Pages:** Used for hosting and continuous deployment.
 
-(* = Not included)
+## 📂 Key Features
+* **Project Gallery:** A curated selection of data engineering and analysis projects.
+* **Direct GitHub Integration:** Clean links to source code for technical review by hiring managers.
+* **Responsive Design:** Optimized for viewing across mobile, tablet, and desktop devices.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## 👤 About Me
+I am a **Data Analyst** specialized in transforming raw data into strategic insights. I focus on high-integrity data cleaning (SQL) and deep-dive exploratory analysis (Python/Power BI).
 
-AJ
-aj@lkn.io | @ajlkn
+---
+Developed by [Obua Elijah](https://github.com/elijahobua)
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+credit m5up
