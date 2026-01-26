@@ -4,8 +4,7 @@
 A professional, responsive portfolio website built to showcase my expertise in **Data Analytics**. This site serves as a central hub for my technical projects, featuring direct links to my SQL scripts, Python notebooks, and data visualization dashboards.
 
 ## 🚀 Live Demo
-You can view the live site here: [https://elijahobua.github.io/portfolio-site/](https://elijahobua.github.io/portfolio-site/)
-
+You can view the live site here: [https://elijahobua.github.io/portfolio-site/]
 ## 🛠️ Built With
 * **HTML5 & CSS3:** For structured content and custom professional styling.
 * **JavaScript:** To handle site interactivity and smooth navigation.
